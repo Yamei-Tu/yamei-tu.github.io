@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
-# bundle exec jekyll serve --livereload -H localhost -P 4000
+# bundle exec jekyll serve  -H localhost -P 4000
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/yamei-tu/"
+  linkedin         : "yamei-tu/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -81,8 +81,10 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  paper: 
+    title: 'Paper'
   books:
-    title: 'Books'
+    title: 'book'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
