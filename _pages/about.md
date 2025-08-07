@@ -19,7 +19,7 @@ When I’m not deep in model training or exploring the latest in LLM research, I
 </div>
 
 ## News
-- **Mar 2024**: Attend the FinTech Conference!
+- **Mar 2025**: Attend the FinTech Conference!
 - **Aug 2024**: Started as Senior Data Scientist at HighPeak AI, working on ML models for health and wealth planning
 - **Aug 2024**: Successfully defended Ph.D. dissertation on "Fusing AI and Visual Analytics for Interactive Knowledge Discovery in Heterogeneous Data"
 - **Apr 2024**: Gave invited talk at Graphics And Mixed Environment Symposium (GAMES)
